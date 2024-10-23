@@ -1,7 +1,5 @@
 #!/bin/sh
 
-# $FreeBSD: head/sysutils/datadog-agent/files/datadog-trace-agent.in 554912 2020-11-11 20:25:33Z dch $
-#
 # PROVIDE: datadog_trace_agent
 # REQUIRE: LOGIN
 # KEYWORD: shutdown
